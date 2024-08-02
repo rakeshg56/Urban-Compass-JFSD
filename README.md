@@ -17,7 +17,7 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 
 ## Installation
 1. Clone the repository:
-   ```  git clone https://github.com/SarvanSurya/Urban-Compass-JFSD.git```
+      ```git clone https://github.com/SarvanSurya/Urban-Compass-JFSD.git```
 2. Install required Softwares like JDK, MYSQL, Integrating SpringBoot in Eclipse or Using STS IDE or Using Spring Initializr.
 3. Setup MYSQL Database and configure the database settings.
 4. Build and Run the Spring Boot Application.
