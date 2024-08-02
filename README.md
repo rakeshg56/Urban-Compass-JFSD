@@ -13,3 +13,5 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 2. Middleware: Spring Boot
 3. Database Connectivity: Spring Data JPA
 4. Database: MYSQL
+5. Webservices : Restful Web Services
+
