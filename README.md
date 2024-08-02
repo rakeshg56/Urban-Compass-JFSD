@@ -18,5 +18,8 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 ## Team
 - [Surya Sarvan](https://github.com/SarvanSurya) - Backend Developer implemented Admin Module
 + [Rakesh Guntupalli](https://github.com/rakeshg56) - Frontend Developer
-* [Darshan Jain](https://github.com/darshanjain08) - Backend Developer User Module
+* [Darshan Jain](https://github.com/darshanjain08) - Backend Developer implemented User Module
 
+## Acknowledgements
+The collaborative effort of our team was crucial in the project's implementation. I'd especially wish to acknowledge my amazing teammates 
+and our mentor [Surya Kiran Sir](https://github.com/suryakiran1993) whose commitment and knowledge were crucial to the project's completion.
