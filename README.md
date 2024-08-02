@@ -7,3 +7,9 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 - **User**: User is the one who is new to the city or want to explore all the services that a particular city has. Users can register and log in to explore a city of their choice. The user can access basic information, navigate services through the navbar, and make hotel or rental bookings and can track the same. If issues arise or incorrect information is found, users can contact the admin through a form.
 
 + **Admin**: Admin is responsible for verifying user registrations, approving/rejecting users. Most importantly the Admin is the one who will add a new city for the users to explore. Responsible for adding all the information related to the city. The Admin manages all city-related information, updates existing data. Admin can validate and respond to user queries and feedback. 
+
+##Technologies
+1. Front End: HTML CSS & Bootstrap
+2. Middleware: Spring Boot
+3. Database Connectivity: Spring Data JPA
+4. Database: MYSQL
