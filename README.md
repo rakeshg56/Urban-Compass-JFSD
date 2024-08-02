@@ -9,11 +9,11 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 + **Admin**: Admin is responsible for verifying user registrations, approving/rejecting users. Most importantly the Admin is the one who will add a new city for the users to explore. Responsible for adding all the information related to the city. The Admin manages all city-related information, updates existing data. Admin can validate and respond to user queries and feedback. 
 
 ## Technologies
-1. Front End: HTML CSS & Bootstrap
-2. Middleware: Spring Boot
-3. Database Connectivity: Spring Data JPA
-4. Database: MYSQL
-5. Webservices : Restful Web Services
+- Front End: HTML CSS & Bootstrap
+- Middleware: Spring Boot
+- Database Connectivity: Spring Data JPA
+- Database: MYSQL
+- Webservices: Restful Web Services
 
 ## Installation
 1. Clone the repository:
@@ -23,6 +23,11 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 4. Build and Run the Spring Boot Application.
 
 ## Usage
+1. After successfully running the Spring Boot application, open the following link in your browser:
+      ```http://localhost:8080```       
+3. Access all the information about a specific city or multiple cities via the navbar or by interacting with the chatbot.
+4. Register and create an account to make rental and hotel bookings, and track your reservations on the MyBookings page.
+5. Any discrepancies, incorrect, or outdated information can be reported to the admin via the Contact Us form. The admin will review and update the information accordingly.
 
 
 ## Team
