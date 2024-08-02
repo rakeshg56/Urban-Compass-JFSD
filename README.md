@@ -16,7 +16,7 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 5. Webservices : Restful Web Services
 
 ## Team
-[Surya Sarvan](https://github.com/SarvanSurya) - Backend Developer implemented Admin Module
-[Rakesh Guntupalli](https://github.com/rakeshg56) - Frontend Developer
-[Darshan Jain](https://github.com/darshanjain08) - Backend Developer User Module
+- [Surya Sarvan](https://github.com/SarvanSurya) - Backend Developer implemented Admin Module
++ [Rakesh Guntupalli](https://github.com/rakeshg56) - Frontend Developer
+* [Darshan Jain](https://github.com/darshanjain08) - Backend Developer User Module
 
