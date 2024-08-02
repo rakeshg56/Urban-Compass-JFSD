@@ -23,10 +23,10 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 4. Build and Run the Spring Boot Application.
 
 ## Usage
-1. After successfully running the Spring Boot application, open the following link in your browser: ```http://localhost:8080```       
+1. After successfully running the Spring Boot application, open the following link in your browser: ```http://localhost:8080```.  
 3. Access all the information about a specific city or multiple cities via the navbar or by interacting with the chatbot.
 4. Register and create an account to make rental and hotel bookings, and track your reservations on the MyBookings page.
-5. To access the Admin Page use: ```http://localhost:8080/admin``` From there, you can perform all the operations listed above in the Admin Module.
+5. To access the Admin Page use: ```http://localhost:8080/admin``` From there, you can perform all the operations listed above in the Admin module.
 6. Any discrepancies, incorrect, or outdated information can be reported to the admin via the Contact Us form. The admin will review and update the information accordingly.
 
 
@@ -36,5 +36,4 @@ In today's dynamic world, cities attract diverse populations seeking opportuniti
 * [Darshan Jain](https://github.com/darshanjain08) - Backend Developer implemented User Module
 
 ## Acknowledgements
-The collaborative effort of our team was crucial in the project's implementation. I'd especially wish to acknowledge my amazing teammates 
-and our mentor [Surya Kiran Sir](https://github.com/suryakiran1993) whose commitment and knowledge were crucial to the project's completion.
+The collaborative effort of our team was crucial to the project's implementation. I'd especially like to acknowledge my amazing teammates and our mentor, [Surya Kiran Sir](https://github.com/suryakiran1993), whose commitment and knowledge were essential to the project's completion.
